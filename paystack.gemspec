@@ -9,8 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Bernard Ojengwa"]
   spec.email         = ["bernardojengwa@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = "A Ruby gem wrapper for Paystack API"
   spec.homepage      = "https://github.com/ojengwa/paystackr.git"
   spec.license       = "MIT"
 
