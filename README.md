@@ -1,4 +1,4 @@
-# Paystack
+# Paystackr
 
 [![Build Status](https://travis-ci.org/ojengwa/paystackr.svg?branch=master)](https://travis-ci.org/ojengwa/paystackr)
 
@@ -11,7 +11,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'paystack'
+gem 'paystackr'
 ```
 
 And then execute:
@@ -20,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install paystack
+    $ gem install paystackr
 
 ## Usage
 

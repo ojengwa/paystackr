@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'paystack/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "paystack"
+  spec.name          = "paystackr"
   spec.version       = Paystack::VERSION
   spec.authors       = ["Bernard Ojengwa"]
   spec.email         = ["bernardojengwa@gmail.com"]
